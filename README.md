@@ -5,7 +5,7 @@ See [live](https://ajay-deshmukh.github.io/gif-search)
 > Example: *christmas*
 
 Result will be ->
-![Alt text](https://github.com/ajay-deshmukh/gif-search/css/blob/master/search.png)
+![Alt text](https://github.com/ajay-deshmukh/gif-search/blob/master/css/search.png)
 
 Searching the .gif by calling AJAX using Giphy APIs
 
