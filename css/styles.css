@@ -1,0 +1,43 @@
+/* Body Section */
+
+body {
+	width: 80%;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+strong {
+	font-family: Helvetica, Arial, sans-serif;
+	color: darkslateblue;
+}
+
+.container-padding50 {
+	padding-top: 50px;
+}
+
+.container-textinput {
+	width: 80%;
+	display: inline-block;
+	padding: 20px;
+	font-size: 16px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.container-button {
+	width: 10%;
+	display: inline-block;
+	background-color: skyblue;
+	padding: 20px;
+	color: white;
+	font-family: Hevetica, Arial, sans-serif;
+	font-size: 16px;
+	border: 1px solid blue;
+	border-radius: 5px;
+}
+
+.container-image {
+	width: 30%;
+	display: block;
+	float: left;
+	margin-right: 3%;
+}
